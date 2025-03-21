@@ -1,0 +1,64 @@
+.painel{
+  background-color: rgb(104, 103, 103);
+  border-right: 15px solid rgb(104, 103, 103);
+  border-top: 15px solid rgb(104, 103, 103);
+  color: white;
+  width: 207px;
+  height: 100px;
+  text-align: right;
+  font-size: 40px;
+  font-family: Arial;
+}
+
+.painel-botoes{
+  width: 222px;
+  height: 375px;
+  background-color: white;
+  border-left: 2px solid rgb(104, 103, 103);
+  border-right: 2px solid rgb(104, 103, 103);
+}
+
+.botao-ac{
+  width: 166px;
+  height: 50px;
+  background-color: rgb(206, 206, 206);
+  border-bottom: 2px solid rgb(104, 103, 103);
+  border-right: 2px solid rgb(104, 103, 103);
+  font-size: 26px;
+  text-align: center;
+  float:left;
+}
+
+.botao-zero{
+  width: 110px;
+  height: 50px;
+  background-color: rgb(206, 206, 206);
+  border-right: 2px solid rgb(104, 103, 103);
+  border-bottom: 2px solid rgb(104, 103, 103);
+  font-size: 26px;
+  text-align: center;
+  float:left;
+}
+
+.botao-operacao{
+  width: 54px;
+  height: 50px;
+  background-color: orangered;
+
+  border-bottom: 2px solid rgb(104, 103, 103);
+  font-size: 26px;
+  text-align: center;
+  float:left;
+  color: white;
+}
+
+.botao-numero{
+  width: 54px;
+  height: 50px;
+  background-color: rgb(206, 206, 206);
+  border-right: 2px solid rgb(104, 103, 103);
+  border-bottom: 2px solid rgb(104, 103, 103);
+  font-size: 26px;
+  text-align: center;
+  float:left;
+}
